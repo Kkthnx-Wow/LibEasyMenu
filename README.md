@@ -49,9 +49,9 @@ local myMenu = {
     { text = "Option 2" },
     { text = "Option 3" }
 }
-```
 
 LibEasyMenu.Create(myMenu, nil, "TOPLEFT", 100, -100)
+```
 
 ## Customization
 
